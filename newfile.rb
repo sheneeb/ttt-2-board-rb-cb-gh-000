@@ -1,2 +1,5 @@
-answer = "flamboyance"
-puts "A group of flamingos is called #{answer}"
+def stylish_chef
+  best_hairstyle = "Guy Fieri"
+  return "Martha Stewart"
+  "Guy Fieri"
+end
