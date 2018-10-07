@@ -3,3 +3,4 @@ def stylish_chef
   return "Martha Stewart"
   "Guy Fieri"
 end
+stylish_chef
